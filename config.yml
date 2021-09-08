@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Personal Blog (EN/ES)
+    url: https://blog.gabi.io
+    about: Articles about IT
+  - name: Puntotech
+    url: https://medium.com/puntotech
+    about: Spanish articles about programming and IT
+  - name: Keybase
+    url: https://keybase.io/gtrabanco
+    about: Contact for support and security issues in my code please
